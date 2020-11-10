@@ -1,0 +1,42 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: car_system_project - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\lenovo\AppData\Local\Temp\RSP8E17.tmp" with contents
+[
+/nologo /subsystem:windows /incremental:yes /pdb:"Debug/car_system_project.pdb" /debug /machine:I386 /out:"Debug/car_system_project.exe" /pdbtype:sept 
+.\Debug\car_system_project.obj
+.\Debug\car_system_projectDoc.obj
+.\Debug\car_system_projectView.obj
+.\Debug\CarSet.obj
+.\Debug\ClientSet.obj
+.\Debug\EarningView.obj
+.\Debug\FilterDlg.obj
+.\Debug\LetingDlg.obj
+.\Debug\LetingSet.obj
+.\Debug\LoginDlg.obj
+.\Debug\LogSet.obj
+.\Debug\LogView.obj
+.\Debug\MainFrm.obj
+.\Debug\QueryDlg.obj
+.\Debug\RevertDlg.obj
+.\Debug\RevertSet.obj
+.\Debug\StdAfx.obj
+.\Debug\WorkerSet.obj
+.\Debug\car_system_project.res
+]
+Creating command line "link.exe @C:\Users\lenovo\AppData\Local\Temp\RSP8E17.tmp"
+<h3>Output Window</h3>
+Linking...
+
+
+
+<h3>Results</h3>
+car_system_project.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
